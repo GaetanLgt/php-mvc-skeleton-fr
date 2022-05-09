@@ -77,6 +77,18 @@ si vous avez des questions vous pouvez ouvrir un problème.
 
 ![Alt Text](https://media1.giphy.com/media/XreQmk7ETCak0/giphy.gif)
 
+    
+    
+    
+<div>
+<p> Pour lancer le serveur : <p>
+<code>php -S 127.0.0.1:8080</code>
+</div>
+
+
+</div>
+
+
 </div>
 
 
