@@ -1,10 +1,10 @@
 Options -MultiViews
 RewriteEngine on
 
-# change /public to the public directory path.
+# changer /public pour le chemin du répertoire public.
 RewriteBase /public 
 
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d !-f
 
-RewriteRule ^(.+)$ index.php?req=$1
+Règle de réécriture ^(.+)$ index.php?req=$1
