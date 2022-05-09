@@ -1,6 +1,6 @@
 <?php
 
-classe App{
+class App{
 
 
     /*
@@ -22,10 +22,11 @@ classe App{
         
         //réglage de la langue par défaut si elle n'est pas spécifiée.
 
+
         if($req != NULL && file_exists('../app/languages/' . $req[0])){
-            define('LANGUAGE', array_shift($req)) ;                    
-        }sélectionnez
-            define('LANGUAGE', $this->language) ;
+            define('LANGUAGE', array_shift($req));                    
+        }else{
+            define('LANGUAGE', $this->language);
         }
 
         if(file_exists('../app/controllers/' . $req[0] . '.php')){

@@ -1,11 +1,13 @@
 # PHP MVC skeleton fr
 
+===
 ----
 Un squelette d'application web PHP POO qui utilise le modèle architectural MVC pour créer une application de base contenant des systèmes de login et de multi-langage et qui peut être utilisé dans n'importe quel projet web.
 
 - Il a été créé pour éviter de devoir créer un script MVC à partir de zéro. 
 
 ## Description 
+
 Squelette php basique d'une application web MVC (modèle-vue-contrôleur) que vous pouvez utiliser pour construire votre application sur cette base ou pour comprendre le modèle MVC.
 
 ## Caractéristiques 
@@ -51,3 +53,18 @@ Il s'agit d'une application MVC normale, qui se compose de modèles, de vues et 
 ## Enfin 
 Je serai heureux de voir la contribution envoyer une demande de pull, 
 si vous avez des questions vous pouvez ouvrir un problème.
+
+## Ressources 
+
+
+{
+	"ressource" : "/var/www/html/theGame/php-mvc-skeleton-fr/README.md",
+	"propriétaire" : "cSpell",
+	"severity" : 2,
+	"message" : "\"skeleton\" : Mot inconnu.",
+	"source" : "cSpell",
+	"startLineNumber" : 1,
+	"startColumn" : 11,
+	"endLineNumber" : 1,
+	"endColumn" : 19
+}

@@ -23,7 +23,7 @@ class Session extends Database {
                 * recherche de l'identifiant, renvoie les données de l'utilisateur dans un tableau ou renvoie false si l'utilisateur n'existe pas.
                 */
         }
-        retourne false ;    
+        return false ;    
 
     }
 }

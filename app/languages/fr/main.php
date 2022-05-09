@@ -5,10 +5,10 @@
 * dans différentes langues
 */
     $lang = array(
-        'site_name' => 'SITE NAME',
-        welcome' => 'DESCRIPTION DU SITE',
-        'lang' => 'Language',
-        'rights' => 'All Rights Reserved' (Tous droits réservés)
+        'site_name' => 'NOM DU SITE',
+        'welcome' => 'DESCRIPTION DU SITE',
+        'lang' => 'Langue',
+        'rights' => ' All Rights Reserved (Tous droits réservés)' 
     ) ;
 
 ?>

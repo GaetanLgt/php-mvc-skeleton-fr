@@ -1,6 +1,9 @@
+/* La classe contrôleur Home étend la classe Controller et possède deux méthodes : index() et login().
+La méthode index() est appelée lorsque l'utilisateur visite la page d'accueil.
+La méthode login() est appelée lorsque l'utilisateur visite la page de connexion. */
 <?php
 
-class Home extends Controller{
+class Home extends Controller {
 
     public function index(){
         /*
@@ -36,7 +39,7 @@ class Home extends Controller{
             $user = $login->userlogin() ;
             if(!$user){
                 $this->view('home/login', [ 'error' => 'loginError' ]) ;
-            }sinon{
+            } else {
                 $this->view('home/index', [ 'msg' => 'loginSuccess', 'user' => $user ]) ;                
             }
         }else{

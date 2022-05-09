@@ -1,6 +1,6 @@
 <?php 
 
-classe Contrôleur{
+class Controller {
 
     /* fonction modèle appelée pour créer un objet d'une classe modèle.
     * il vérifie d'abord la connexion de l'utilisateur si ce n'est pas le cas il affichera la page de connexion.
