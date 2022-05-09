@@ -1,5 +1,7 @@
 # PHP MVC skeleton fr
 
+##
+
 <div align="center">
 
 ![Alt Text](https://nouvelle-techno.fr/assets/uploads/content/a16f52e9a52a87b3c68065c4dd2d470a.jpg)
@@ -7,7 +9,7 @@
 
 </div>
 
-
+##
 
 Un squelette d'application web PHP POO qui utilise le modèle architectural MVC pour créer une application de base contenant des systèmes de login et de multi-langage et qui peut être utilisé dans n'importe quel projet web.
 
@@ -61,7 +63,7 @@ Il s'agit d'une application MVC normale, qui se compose de modèles, de vues et 
 Je serai heureux de voir la contribution envoyer une demande de pull, 
 si vous avez des questions vous pouvez ouvrir un problème.
 
-===
+##
 
 <div align="center">
 
@@ -69,7 +71,7 @@ si vous avez des questions vous pouvez ouvrir un problème.
 </div>
 
 
-===
+##
 
 <div align="center">
 
