@@ -1,5 +1,6 @@
 # PHP MVC skeleton fr
 
+![Alt Text](https://nouvelle-techno.fr/assets/uploads/content/a16f52e9a52a87b3c68065c4dd2d470a.jpg)
 
 Un squelette d'application web PHP POO qui utilise le modèle architectural MVC pour créer une application de base contenant des systèmes de login et de multi-langage et qui peut être utilisé dans n'importe quel projet web.
 
