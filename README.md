@@ -1,5 +1,5 @@
-# php MVC skeleton fr
-====
+# PHP MVC skeleton fr
+
 ----
 Un squelette d'application web PHP OOP qui utilise le modèle architectural MVC pour créer une application de base contenant des systèmes de login et de multi-langage et qui peut être utilisé dans n'importe quel projet web.
 
