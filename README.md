@@ -53,4 +53,4 @@ Il s'agit d'une application MVC normale, qui se compose de modèles, de vues et 
 Je serai heureux de voir la contribution envoyer une demande de pull, 
 si vous avez des questions vous pouvez ouvrir un problème.
 
-									https://media1.giphy.com/media/XreQmk7ETCak0/giphy.gif
+	 - https://media1.giphy.com/media/XreQmk7ETCak0/giphy.gif
