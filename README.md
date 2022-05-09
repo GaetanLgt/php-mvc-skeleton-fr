@@ -65,8 +65,7 @@ si vous avez des questions vous pouvez ouvrir un problème.
 
 <div align="center">
 
-![Alt text](S5VJ1StbSu1-odgQ2BkddIXXXL4j3HpexhjNOf_P3YmryPKwJ94QGRtDb3Sbc6KY.png) / ![](S5VJ1StbSu1-odgQ2BkddIXXXL4j3HpexhjNOf_P3YmryPKwJ94QGRtDb3Sbc6KY.png)
-
+![Alt text](https://github.com/GaetanLgt/php-mvc-skeleton-fr/blob/master/S5VJ1StbSu1-odgQ2BkddIXXXL4j3HpexhjNOf_P3YmryPKwJ94QGRtDb3Sbc6KY.jpg?raw=true)
 </div>
 
 
